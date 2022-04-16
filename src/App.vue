@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div class="container mx-auto">
-    <p class="bg-sky-500/50 py-2">Student Details</p>
+    <p class="bg-sky-500/50 py-2">STUDENT DETAILS</p>
 
     <div class="bg-[#075985] text-white">
       <div class="p-8">
